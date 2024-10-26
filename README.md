@@ -1,4 +1,4 @@
-#Чтоб запустить:
+## Чтоб запустить:
 - git clone https://github.com/Mack3v/for_leha.git
 - pip install virtualenv
 - virtualenv venv
